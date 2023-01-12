@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           <h2>
-          Lets check your location and internet speed.
+          Lets check your location (IP) and internet speed.
           </h2>
         </p>
         
@@ -18,7 +18,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Check your location
+          Check your location/IP address
         </a>
         <p>
 
